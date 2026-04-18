@@ -11,7 +11,7 @@ It includes revenue, cost, and profit analysis along with break-even and scenari
 
 ## 📊 Dashboard Preview
 
-![Dashboard](dashboard.png.png)
+![Dashboard](Dashboard.png.png)
 
 ---
 
