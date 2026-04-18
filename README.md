@@ -53,8 +53,8 @@ It includes revenue, cost, and profit analysis along with break-even and scenari
 
 ## 📁 Files Included
 
-• Financial_Model_Dashboard.xlsx
-• dashboard.png
+• Financial Modeling Dashboard.xlsx
+• Dashboard.png.png
 
 ---
 
